@@ -1,6 +1,8 @@
 # git-lab
 
-## Commands Used:
+## Commands Used: 
+
+### Mahmoud Mustafa Metwally (Person 1):
   1. git init
   2. git commit -m 'First Commit'
   3. git remote add origin https://github.com/mamume/git-lab.git

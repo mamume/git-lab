@@ -5,3 +5,5 @@ console.log('Hello, Git!')
 
 // Mahmoud Mustafa First Edit
 console.log('First Edit')
+
+/* Hi this is Talaat again and this is the second edit */
